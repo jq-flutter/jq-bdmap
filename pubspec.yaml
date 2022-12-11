@@ -36,8 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   dio:
   flutter_baidu_mapapi_map: ^3.0.0+2
-#  flutter_baidu_mapapi_search: ^3.0.0
-#  flutter_baidu_mapapi_utils: ^3.3.0
+  flutter_baidu_mapapi_search: ^3.0.0
+  flutter_baidu_mapapi_utils: ^3.3.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
