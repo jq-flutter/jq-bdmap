@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.baidu.lbsyun:BaiduMapSDK_Util:7.5.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/98a03e63c0421b4ad00a532924b26b2c/transformed/jetified-BaiduMapSDK_Util-7.5.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98a03e63c0421b4ad00a532924b26b2c/transformed/jetified-BaiduMapSDK_Util-7.5.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/98a03e63c0421b4ad00a532924b26b2c/transformed/jetified-BaiduMapSDK_Util-7.5.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/BaiduMapSDK_Util/7.5.4/e3c2fb767b2e10aad320c30b07f8817415dd5a10/BaiduMapSDK_Util-7.5.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/BaiduMapSDK_Util/7.5.4/e3c2fb767b2e10aad320c30b07f8817415dd5a10/BaiduMapSDK_Util-7.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

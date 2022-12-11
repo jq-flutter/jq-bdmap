@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.baidu.lbsyun:BaiduMapSDK_Location_All:9.3.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/41471aab7e12e75d103ec13ccc0408ee/transformed/jetified-BaiduMapSDK_Location_All-9.3.7/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/41471aab7e12e75d103ec13ccc0408ee/transformed/jetified-BaiduMapSDK_Location_All-9.3.7/jars/libs/locSDK_developer_all_Release__9.3.7.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/41471aab7e12e75d103ec13ccc0408ee/transformed/jetified-BaiduMapSDK_Location_All-9.3.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/41471aab7e12e75d103ec13ccc0408ee/transformed/jetified-BaiduMapSDK_Location_All-9.3.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/BaiduMapSDK_Location_All/9.3.7/3eabcbdca6dd7f1ca18722e2f1b606d2c16838a5/BaiduMapSDK_Location_All-9.3.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/BaiduMapSDK_Location_All/9.3.7/3eabcbdca6dd7f1ca18722e2f1b606d2c16838a5/BaiduMapSDK_Location_All-9.3.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

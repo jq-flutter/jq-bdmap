@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.baidu.lbsyun:common:1.0.28">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/common/1.0.28/e5640002f2c4fc20f7477a36784c9cc8e2937c39/common-1.0.28.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/common/1.0.28/5fd01817e03d9496d3c75c7456ff6fd6f87cd775/common-1.0.28-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.baidu.lbsyun/common/1.0.28/5fd01817e03d9496d3c75c7456ff6fd6f87cd775/common-1.0.28-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
